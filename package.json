@@ -4,7 +4,8 @@
   "description": "A webapp wrapper for running node-red in an Azure Web App",
   "main": "server.js",
   "dependencies": {
-    "node-red": "^0.20.3"
+    "node-red": "^0.20.3",
+    "passport-headerapikey": "^1.1.0"
   },
   "devDependencies": {},
   "scripts": {
